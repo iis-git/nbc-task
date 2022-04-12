@@ -16,7 +16,8 @@
 - Styled Components - по желанию
 
 ## Возможный вариант внешнего вида:
-
+![Начальный экран](https://user-images.githubusercontent.com/44289476/162995854-b8991d3b-fa4f-434b-b3f3-b63f13b6803c.png)
+![Открытое изображение](https://user-images.githubusercontent.com/44289476/162997945-ce399bb3-2e3b-4de2-8aa9-ce2a13af1c43.png)
 
 
 По всем вопросам можете обращаться в telegram @martin_mcfly
