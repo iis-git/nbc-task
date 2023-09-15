@@ -28,4 +28,4 @@
 ![Открытое изображение](https://user-images.githubusercontent.com/44289476/162997945-ce399bb3-2e3b-4de2-8aa9-ce2a13af1c43.png)
 
 
-По всем вопросам можете обращаться в telegram @faceless49
+По всем вопросам можете обращаться в telegram @samusiik
